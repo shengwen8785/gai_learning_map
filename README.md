@@ -92,4 +92,4 @@ Author: Sheng-Wen Wang (王聖文)
 
 Feel free to contact me at **shengwen8785@gamil.com** for any questions or suggestions.
 
-![A anime-style girl now graduated.jpeg](images/A anime-style girl now graduated.jpeg)
+![A anime-style girl now graduated](images/A anime-style girl now graduated.jpeg)
